@@ -25,3 +25,6 @@ Por fim, um exemplo "Hello World" foi implementado tanto no Backend quanto no Fr
  > POST - "/sessions". Faz login da ONG através do id da ONG dentro de um json no body da requisição e retorna o nome da ONG.
  
  > POST - "/profile". Retorna o caso através do id da ONG na Header Authorization.
+ 
+ ### Dia 3 ###
+ Nesta etapa o frontend da aplicação foi finalizado. Foram introduzidos os conceitos principais do desenvolvimento React.js, Components, useState, useEffect, entre outros. Foram utilizadas algumas dependências, como o React Router Dom e Axios para tornar a aplicação mais dinâmica e comunicar com o Backend, respectivamente. Uma dependência de ícones foi instalada para ser usada na interface da aplicação.
