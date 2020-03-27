@@ -28,3 +28,6 @@ Por fim, um exemplo "Hello World" foi implementado tanto no Backend quanto no Fr
  
  ### Dia 3 ###
  Nesta etapa o frontend da aplicação foi finalizado. Foram introduzidos os conceitos principais do desenvolvimento React.js, Components, useState, useEffect, entre outros. Foram utilizadas algumas dependências, como o React Router Dom e Axios para tornar a aplicação mais dinâmica e comunicar com o Backend, respectivamente. Uma dependência de ícones foi instalada para ser usada na interface da aplicação.
+
+### Dia 4 ###
+ Nesta etapa a parte mobile da aplicação foi finalizada, foram apresentados os conceitos de View, Text, Button, FlatList, TouchableOpacity, entre outros. Foram utilizadas as dependências React Router DOM, React Navigation, Expo/Vector_Icons, e por fim, a dependência Axios, para comunicar com o Backend da aplicação. A aplicação foi feita com React Native, utilizando a plataforma Expo, que facilita o desenvolvimento com conceitos com o Live Reload.
