@@ -31,3 +31,6 @@ Por fim, um exemplo "Hello World" foi implementado tanto no Backend quanto no Fr
 
 ### Dia 4 ###
  Nesta etapa a parte mobile da aplicação foi finalizada, foram apresentados os conceitos de View, Text, Button, FlatList, TouchableOpacity, entre outros. Foram utilizadas as dependências React Router DOM, React Navigation, Expo/Vector_Icons, e por fim, a dependência Axios, para comunicar com o Backend da aplicação. A aplicação foi feita com React Native, utilizando a plataforma Expo, que facilita o desenvolvimento com conceitos com o Live Reload.
+
+### Dia 5 ###
+ Nesta etapa, foram introduzidos os comceitos de testes automatizados e *TDD'S*(Test driven development), os quais foram aplicados no projeto através das dependências Jest e Supertest, para testes unitários e testes de integração, respectivamente. Também foi realizada a validação da *API* do Backend através da dependência Celebrate.
