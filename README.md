@@ -4,6 +4,14 @@ Implementação da semana Omnistack 11.0 com o tema *Be The Hero*. O projeto foi
 React.js no Frontend, e uma aplicação mobile com React Native. O projeto *Be The Hero* consiste em uma aplicação que
 visa facilitar o cadastro de *ONG'S* sem fim lucrativos, a fim de arrecadar fundos para estes projetos sociais.
 
+### Imagens do projeto ###
+
+Tela inicial                                                  | Tela de casos             |  Detalhes do caso
+:------------------------------------------------------------:|:-------------------------:|:-------------------------:
+<img alt="Tela inicial" src="pictures/mobile1.png" width="200px" />      |  <img alt="Tela de casos" src="pictures/mobile2.png" width="200px" /> | <img alt="Detalhes do caso" src="pictures/mobile3.png" width="200px" />
+
+<img alt="Be The Hero Web" src="pictures/web.png" width="80%" />
+
 ### Dia 1 ##
 
 Nesta estapa foram explicados o porquê as tecnologias em Javascript fazem tanto sentido juntas em uma mesma Stack.
